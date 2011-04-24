@@ -1,7 +1,9 @@
-1303670782
+1303674932
 Application	/home/clauder/workspace/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/clauder/workspace/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/clauder/workspace/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
+PagesController	/home/clauder/workspace/sample_app/app/controllers/pages_controller.rb	class PagesController 
+PagesHelper	/home/clauder/workspace/sample_app/app/helpers/pages_helper.rb	module PagesHelper
 SampleApp	/home/clauder/workspace/sample_app/config/application.rb	module SampleApp
 Str	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function Type(o)
@@ -27,6 +29,7 @@ clone	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	functio
 collect	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function collect(iterator, context)
 compact	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function compact()
 concat	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function concat()
+contact	/home/clauder/workspace/sample_app/app/controllers/pages_controller.rb	  def contact
 copy	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function copy(methods, destination, onlyIfAbsent)
 create	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function create()
 cssNameFor	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function cssNameFor(key)
@@ -75,6 +78,7 @@ grep	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function
 gsub	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	/home/clauder/workspace/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	/home/clauder/workspace/sample_app/public/javascripts/rails.js	function handleRemote(element)
+home	/home/clauder/workspace/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function include(object)
 include	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function include(pattern)
