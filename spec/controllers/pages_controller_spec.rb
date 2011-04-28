@@ -37,7 +37,6 @@ end
                     :content => "Ruby on Rails Tutorial Sample App | About")
 end
   end
-  
-  
+    
 
 end
