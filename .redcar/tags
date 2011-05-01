@@ -1,4 +1,4 @@
-1303982265
+1304257690
 Application	/home/clauder/workspace/sample_app/config/application.rb	  class Application 
 ApplicationController	/home/clauder/workspace/sample_app/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/home/clauder/workspace/sample_app/app/helpers/application_helper.rb	module ApplicationHelper
@@ -7,7 +7,6 @@ PagesHelper	/home/clauder/workspace/sample_app/app/helpers/pages_helper.rb	modul
 SampleApp	/home/clauder/workspace/sample_app/config/application.rb	module SampleApp
 Str	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function Str(key, holder, stack)
 Type	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function Type(o)
-about	/home/clauder/workspace/sample_app/app/controllers/pages_controller.rb	  def about
 about	/home/clauder/workspace/sample_app/app/controllers/pages_controller.rb	  def about
 abs	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function abs()
 absolutize	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function absolutize(element)
@@ -80,6 +79,7 @@ grep	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function
 gsub	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function gsub(pattern, replacement)
 handleMethod	/home/clauder/workspace/sample_app/public/javascripts/rails.js	function handleMethod(element)
 handleRemote	/home/clauder/workspace/sample_app/public/javascripts/rails.js	function handleRemote(element)
+help	/home/clauder/workspace/sample_app/app/controllers/pages_controller.rb	  def help
 home	/home/clauder/workspace/sample_app/app/controllers/pages_controller.rb	  def home
 inGroupsOf	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function inGroupsOf(number, fillWith)
 include	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function include(object)
@@ -167,6 +167,7 @@ succ	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function
 succ	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function succ()
 times	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function times(count)
 times	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function times(iterator, context)
+title	/home/clauder/workspace/sample_app/app/helpers/application_helper.rb	  def title
 toArray	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function toArray()
 toArray	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function toArray()
 toCSSPixels	/home/clauder/workspace/sample_app/public/javascripts/prototype.js	function toCSSPixels(number)
